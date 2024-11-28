@@ -33,9 +33,8 @@ Headings and subheadings improve readability and organization by breaking the co
 - Maintain Consistency: Keep the style and formatting consistent throughout the document.
 - Use Parallel Structure: Ensure similar sections have similar phrasing for easier reading.
 - Highlight Key Points: Focus on the main ideas or actions within each section.
-
 ## **Question 11*
-he introduction of a README should include a brief overview of the product's purpose, its core functionality, and the problem it solves. It should highlight the key features in a simple and concise manner, giving users a clear understanding of what the product does and how it can benefit them right from the start.
+The introduction of a README should include a brief overview of the product's purpose, its core functionality, and the problem it solves. It should highlight the key features in a simple and concise manner, giving users a clear understanding of what the product does and how it can benefit them right from the start.
 
 ## **Question 12*
 To succinctly convey the purpose and key features of a product, focus on a brief description of what the product does and how it solves a specific problem. Highlight 2-3 main features that directly support its value. Keep the language clear and straightforward, ensuring users can quickly understand the product's benefits.
